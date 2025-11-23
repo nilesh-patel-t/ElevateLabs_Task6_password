@@ -22,9 +22,9 @@ To understand how complexity and length affect password security, three distinct
 
 | Password Category | Example Password | Length | Complexity Factors | Tool Score / Crack Time | Key Observation |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **P1: Weak/Baseline** | `yash123` | 7 | Lowercase, Numbers | *(Fill in your low score)* | Weak due to short length and dictionary word usage. |
-| **P2: Length Focus** | `MyCatLovesToEatSalmon` | 21 | Mixed Case | *(Fill in your high score)* | High score primarily driven by significant **length** (passphrase structure). |
-| **P3: Complexity Focus** | `P@ssw0rd!123` | 13 | Mixed Case, Numbers, Symbols | *(Fill in your good score)* | Strong due to the **diversity** of character types. |
+| **P1: Weak/Baseline** | `yash123` | 7 | Lowercase, Numbers | 37% | Weak due to short length and dictionary word usage. |
+| **P2: Length Focus** | `MyCatLovesToEatSalmon` | 21 | Mixed Case | 86% | High score primarily driven by significant **length** (passphrase structure). |
+| **P3: Complexity Focus** | `P@ssw0rd!123` | 13 | Mixed Case, Numbers, Symbols | 100% | Strong due to the **diversity** of character types. |
 
 ---
 
